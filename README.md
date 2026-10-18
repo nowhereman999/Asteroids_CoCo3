@@ -4,8 +4,6 @@ The original arcade game runs on a 6502, so this was a 6502 to 6809 transcode. I
 
 The hardest part was the graphics. Asteroids is a vector game, so I had to turn the arcade's vector commands into compiled sprites that draw on the CoCo's 640x200 two colour screen. Getting the sprite sizes right was a real pain and not fun so I stopped the project back in 2023. But these days things like this are easy to do with the help of AI. So with CODEX's help (ChatGPT's coding assistant) I was finally able to draw the sprites at the correct size for the screen, and that was the last piece I needed to finish the game.
 
-I'll be putting it on my GitHub page, and I'll add the link here once it's up.
-
 Have fun!
 
 Glen
