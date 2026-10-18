@@ -8,33 +8,46 @@ Have fun!
 
 Glen
 
-From the README.TXT included in the .zip
+## Game instructions
 
-LOADING THE GAME
-  LOADM"ASTEROID"
+From the `README.TXT` included in the ZIP.
+
+### Loading the game
+
+```text
+LOADM"ASTEROID"
+```
 
 The game starts automatically after loading.
 
-INSERTING COINS AND STARTING
-  5       Insert one coin. Release the key before inserting another.
-  1       Start a one-player game (requires one coin).
-  2       Start a two-player game (requires two coins).
+### Inserting coins and starting
+
+| Key | Action |
+| --- | --- |
+| `5` | Insert one coin. Release the key before inserting another. |
+| `1` | Start a one-player game (requires one coin). |
+| `2` | Start a two-player game (requires two coins). |
 
 In a two-player game, players take turns using the same controls.
 
-PLAYING CONTROLS
-  Z       Rotate left
-  X       Rotate right
-  /       Thrust
-  SHIFT   Fire
-  SPACE   Hyperspace
+### Playing controls
 
-HIGH-SCORE INITIALS
+| Key | Action |
+| --- | --- |
+| `Z` | Rotate left |
+| `X` | Rotate right |
+| `/` | Thrust |
+| `SHIFT` | Fire |
+| `SPACE` | Hyperspace |
+
+### High-score initials
+
 If your score qualifies, enter your three initials when prompted:
 
-  Z       Select the next letter (A, B, C, ...)
-  X       Select the previous letter
-  SPACE   Accept the current letter and move to the next initial
+| Key | Action |
+| --- | --- |
+| `Z` | Select the next letter (A, B, C, ...) |
+| `X` | Select the previous letter |
+| `SPACE` | Accept the current letter and move to the next initial |
 
-Press and release SPACE for each initial. After accepting the third
-letter, your entry is complete. Finish before the entry timer expires.
+Press and release `SPACE` for each initial. After accepting the third letter, your entry is complete. Finish before the entry timer expires.
